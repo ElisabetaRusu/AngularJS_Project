@@ -1,0 +1,90 @@
+[
+   {
+      "title":"New Item",
+      "id":1,
+      "description":"This is a book",
+      "publishDate":"2020-09-11",
+      "comments": [
+         {
+            "id":1,
+            "text":"Nice book"
+         },
+         {
+            "id":2,
+            "text":"Another comment"
+         }
+      ],
+      "image": "/img/1.jpg"
+   },
+   {
+      "title":"Title",
+      "id":2,
+      "description":"This is a book",
+      "publishDate":"2020-12-11",
+      "image": "/img/1.jpg"
+   },
+   {
+      "title":"Tea",
+      "id":3,
+      "description":"This is a book",
+      "publishDate":"2021-09-11",
+      "image": "/img/1.jpg"
+   },
+   {
+      "title":"Lite",
+      "id":4,
+      "description":"This is a book",
+      "publishDate":"2021-03-11",
+      "image": "/img/1.jpg"
+   },
+   {
+      "title":"Lite",
+      "id":5,
+      "description":"This is a book",
+      "publishDate":"2021-02-15",
+      "image": "/img/1.jpg"
+   },
+   {
+      "title":"Lite",
+      "id":6,
+      "description":"This is a book",
+      "publishDate":"2021-04-23",
+      "image": "/img/1.jpg"
+   },
+   {
+      "title":"Lite",
+      "id":7,
+      "description":"This is a book",
+      "publishDate":"2020-09-11",
+      "image": "/img/1.jpg"
+   },
+   {
+      "title":"Lite",
+      "id":4,
+      "description":"This is a book",
+      "publishDate":"2020-09-11",
+      "image": "/img/1.jpg"
+   },
+   {
+      "title":"Lite",
+      "id":5,
+      "description":"This is a book",
+      "publishDate":"2020-09-11",
+      "image": "/img/1.jpg"
+   },
+   {
+      "title":"Lite",
+      "id":6,
+      "description":"This is a book",
+      "publishDate":"2020-09-11",
+      "image": "/img/1.jpg"
+   },
+   {
+      "title":"Lite",
+      "id":7,
+      "description":"This is a book",
+      "publishDate":"2020-09-11",
+      "image": "/img/1.jpg"
+   }
+
+]

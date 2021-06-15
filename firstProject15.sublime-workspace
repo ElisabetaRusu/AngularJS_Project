@@ -1,0 +1,725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"search",
+				"searchQuery"
+			],
+			[
+				"searc",
+				"searchQuery"
+			],
+			[
+				"nu",
+				"numCols"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"blo",
+				"blogItems"
+			],
+			[
+				"c",
+				"cliks"
+			],
+			[
+				"new",
+				"new-class"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 2120,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/app/app.config.js",
+			"settings":
+			{
+				"buffer_size": 706,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/app/utils/try-nav/try-nav.module.js",
+			"settings":
+			{
+				"buffer_size": 50,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/app/utils/try-nav/try-nav.directive.js",
+			"settings":
+			{
+				"buffer_size": 618,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/try-nav.html",
+			"settings":
+			{
+				"buffer_size": 2786,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/app/app.module.js",
+			"settings":
+			{
+				"buffer_size": 212,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/blog-list.html",
+			"settings":
+			{
+				"buffer_size": 3625,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/blog-detail.html",
+			"settings":
+			{
+				"buffer_size": 1127,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/app/blog-detail/blog-detail.component.js",
+			"settings":
+			{
+				"buffer_size": 2174,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/app/blog-list/blog-list.component.js",
+			"settings":
+			{
+				"buffer_size": 3182,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/json/posts.json",
+			"settings":
+			{
+				"buffer_size": 1807,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/app/utils/confirm-click/confirm-click.module.js",
+			"settings":
+			{
+				"buffer_size": 50,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/app/utils/confirm-click/confirm-click.directive.js",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/eli/Eli/Studiu/Angular/firstProject",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/blog-detail",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/blog-list",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/core",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/core/post",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/utils",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/utils/confirm-click",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/utils/try-nav",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/external",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/templates"
+	],
+	"file_history":
+	[
+		"/home/eli/Eli/Studiu/Angular/firstProject/config.ru",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/blog-detail/blog-detail.component.js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/templates/blog-detail.html",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/app.config.js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/core/post/post.service.js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/core/post/post.module.js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/templates/blog-list.html",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/json/posts.json",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/blog-list/blog-list.component.js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/blog-list/blog-list.module.js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/blog-detail/blog-detail.module.js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/app/app.module.js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/quicktips.md",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/templates/about.html",
+		"/home/eli/Eli/Studiu/Angular/firstProject/src/js/angular.min.js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/js/angular.min.js",
+		"/home/eli/Eli/Studiu/Angular/firstProject/index.html",
+		"/home/eli/Eli/Studiu/Angular/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"})\n",
+			"(\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1963,
+								1963
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 141.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/app/app.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/js/app/utils/try-nav/try-nav.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/js/app/utils/try-nav/try-nav.directive.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/templates/try-nav.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2301,
+								2301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 426.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/js/app/app.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/templates/blog-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1933,
+								1933
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/templates/blog-detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/js/app/blog-detail/blog-detail.component.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/js/app/blog-list/blog-list.component.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/json/posts.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/js/app/utils/confirm-click/confirm-click.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/js/app/utils/confirm-click/confirm-click.directive.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1323,
+								1323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "firstProject15.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
